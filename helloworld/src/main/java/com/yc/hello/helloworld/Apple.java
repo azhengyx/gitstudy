@@ -1,13 +1,9 @@
 package com.yc.hello.helloworld;
 
-/**
- * Hello world!
- *
- */
-public class App 
+public class Apple 
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello " );
+        System.out.println( "i have a pen,i have an apple~ " );
     }
 }
